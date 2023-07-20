@@ -25,25 +25,25 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Features
 
-- Finding the Area and Circumference of a Circle: A program that calculates the area and circumference of a circle.
+- ASCII Table: This project likely involves displaying the ASCII table, which shows the numerical representation of various characters in the ASCII encoding system.
 
-- Finding the Area of an Equilateral Triangle: A program that calculates the area of an equilateral triangle.
+- Number of Elements: This project calculates and returns the count or number of elements in an array, list, or collection.
 
-- Determining the Sizes of int, float, double, char: A program that determines the sizes (in bytes) of int, float, double, and char data types.
+- Array Length: The project computes and provides the length or size of an array, indicating how many elements it contains.
 
-- Binary to Decimal Conversion: A program that converts a binary number to its decimal equivalent.
+- Array Sum: In this project, the sum of all elements within an array is calculated and returned.
 
-- Decimal to Binary Conversion: A program that converts a decimal number to its binary equivalent.
+- Max Number: This project finds and returns the maximum (largest) number in an array.
 
-- Octal to Decimal Conversion: A program that converts an octal number to its decimal equivalent.
+- Sum Array: It involves adding or summing up the elements of an array and returning the total.
 
-- Binary to Octal Conversion: A program that converts a binary number to its octal equivalent.
+- Ascending Order: This project arranges elements in ascending order, typically using algorithms like Bubble Sort or Selection Sort.
 
-- Octal to Binary Conversion: A program that converts an octal number to its binary equivalent.
+- Descending Sort: Similar to the previous project, but it sorts elements in descending order.
 
-- Checking if a Given Character is a Vowel or Consonant: A program that determines if a given character is a vowel or consonant.
+- AZ Sorting: In this project, a list of words or strings is sorted in alphabetical order, from A to Z.
 
-- Finding the ASCII Value of a Character: A program that finds the ASCII value of a given character.
+- ZA Sorting: Similar to the previous project.
 
 
 ## Technologies Used
