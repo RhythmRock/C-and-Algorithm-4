@@ -33,18 +33,7 @@ In summary, by developing my fundamental skills in the C programming language th
 
 - Array Sum: In this project, the sum of all elements within an array is calculated and returned.
 
-- Max Number: This project finds and returns the maximum (largest) number in an array.
-
-- Sum Array: It involves adding or summing up the elements of an array and returning the total.
-
 - Ascending Order: This project arranges elements in ascending order, typically using algorithms like Bubble Sort or Selection Sort.
-
-- Descending Sort: Similar to the previous project, but it sorts elements in descending order.
-
-- AZ Sorting: In this project, a list of words or strings is sorted in alphabetical order, from A to Z.
-
-- ZA Sorting: Similar to the previous project.
-
 
 ## Technologies Used
 
